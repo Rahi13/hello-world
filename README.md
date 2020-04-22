@@ -1,4 +1,2 @@
-# hello-world
-testing
-Learning about GitHub.
-Added new feature.
+glytoucan_ac.csv file updated. Includes GlyConnect data.
+
